@@ -3,3 +3,6 @@ Allow: /
 
 # Sitemap location
 Sitemap: https://osterhausia.github.io/sitemap.xml
+
+<title>Osterhausia Trading System </title>
+<meta name="description" content="Osterhausia Trading System is an institutional-grade AI-driven financial infrastructure designed for global markets.">
